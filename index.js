@@ -4,9 +4,6 @@ import dotenv from "dotenv";
 import cors from "cors";
 import AppRoutes from "./routes/AppRoute.js";
 
-// Create a .env file in /server directory and add the following line in it:
-// CONNECTION_URL={mongodb connection string}
-
 // initialize app
 const app = express();
 dotenv.config();
