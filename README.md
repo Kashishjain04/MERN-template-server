@@ -1,6 +1,6 @@
 # MERN Template
 
-In your root directory, run:
+In your project's root directory, run:
 - <code>git clone https://github.com/Kashishjain04/MERN-template-client.git</code>
 - <code>git clone https://github.com/Kashishjain04/MERN-template-server.git</code>
 
